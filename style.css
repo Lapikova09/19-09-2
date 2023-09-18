@@ -1,0 +1,41 @@
+.div-1{
+    width: 500px;
+    height: 600px;
+    background-color: rgb(237, 237, 237);
+    margin-left: auto;
+    margin-right: auto;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+}
+span{
+    font-size: x-large;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.blue{
+    background-color: rgb(147, 255, 255);
+}
+.dblue{
+    background-color: rgb(99, 175, 242);
+}
+.grey{
+    background-color: rgb(189, 187, 187);
+}
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+li{
+    height: 40px;
+}
+img{
+    padding-left: 30px;
+    padding-top: 10px;
+}
+h1{
+    padding-top: 20px;
+    text-align: center;
+}
